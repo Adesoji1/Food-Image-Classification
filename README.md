@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Feel free to customize the README and description to better fit your project's specifics.
+
